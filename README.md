@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ppOverheat&theme=tokyonight)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ppOverheat&count_private=true&show_icons=true&theme=merko)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ppOverheat)](https://git.io/streak-stats)
-
+<!--[![ppOverheat's GitHub stats](https://github-readme-stats.vercel.app/api?username=ppOverheat&count_private=true&show_icons=true&theme=merko&hide=prs,issues,contribs)](https://github.com/anuraghazra/github-readme-stats)
+-->
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
 <!--
