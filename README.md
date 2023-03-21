@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=daniilshat&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ppOverheat&theme=solarized_dark)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ppOverheat)](https://git.io/streak-stats)
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
