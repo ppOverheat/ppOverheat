@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=daniilshat&theme=solarized_dark)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1)](https://git.io/streak-stats)
+
+![Jokes Card](https://readme-jokes.vercel.app/api)
+
 <!--
 **ppOverheat/ppOverheat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
